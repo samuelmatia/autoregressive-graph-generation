@@ -1,0 +1,11 @@
+torch>=2.2
+transformers>=4.40
+numpy
+pandas
+numba           
+rdkit
+tqdm
+
+molsets          # MOSES  -> pip install molsets
+guacamol         # GuacaMol
+fcd_torch
