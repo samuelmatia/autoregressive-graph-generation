@@ -1,0 +1,9 @@
+torch>=2.2
+numpy
+pandas
+numba            # strongly recommended: C-M ordering + tokenization ~100x faster
+rdkit
+tqdm
+# metrics (optional):
+# molsets          # MOSES metrics: FCD, Scaf, SNN, Frag  (pip install molsets)
+# EDeN             # NSPDK  (pip install git+https://github.com/fabriziocosta/EDeN.git)
